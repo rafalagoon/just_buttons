@@ -1,7 +1,12 @@
-# just_buttons
+# Just Buttons
+
 Game made in less than 4 hours when I discovered the gamejam while procrastinating on streaming.
 
 ![media/screenshot_start.png](media/screenshot_start.png)
+
+This is the GameJam:
+
+[https://itch.io/jam/level-up-lab-press-start-jam](https://itch.io/jam/level-up-lab-press-start-jam)
 
 You can wath the streaming on my channel:
 
