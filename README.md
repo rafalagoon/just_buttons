@@ -16,8 +16,14 @@ And download the build on Itch:
 
 [https://rafalagoon.itch.io/just-buttons](https://rafalagoon.itch.io/just-buttons)
 
-Licenses:
 
-GPL for the source code
+## Music:
 
-CC-By for the music (attribution to: Luna, @luna@sunny.garden on Mastodon)
+[https://hedxhog.bandcamp.com/track/overwelmingly-untitled](https://hedxhog.bandcamp.com/track/overwelmingly-untitled)
+
+
+## Licenses:
+
+*GPL* for the source code
+
+*CC-By* for the music (attribution to: Luna, @luna@sunny.garden on Mastodon)
